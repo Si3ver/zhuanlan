@@ -1,24 +1,18 @@
-# zhuanlan
+# 高仿知乎专栏
 
-## Project setup
-```
-npm install
-```
+## 编码规范
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-### Compiles and minifies for production
-```
-npm run build
-```
++ [@vue/eslint-config-standard](https://standardjs.com/rules-zhcn.html#javascript-standard-style)
++ [eslint-plugin-vue](https://eslint.vuejs.org/rules/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 样式
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
++ [Bootstrap@5](https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/)
+
+## 技术栈
+
++ [Nodejs@12](https://nodejs.org/dist/latest-v12.x/docs/api/)
++ [TypeScript](https://www.typescriptlang.org/docs)
++ [vue3](https://v3.vuejs.org/guide/introduction.html)
