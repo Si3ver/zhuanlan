@@ -1,5 +1,10 @@
 # 高仿知乎专栏
 
+## 工具
+
++ [Vetur](https://vuejs.github.io/vetur/)
++ [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/ljjemllljcmogpfapbkkighbhhppjdbg)
+
 ## 编码规范
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
